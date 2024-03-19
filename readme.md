@@ -17,8 +17,8 @@ This script navigates to the Outlook sign-up page, fills in the required informa
 ## Usage
 
 1. Run the script `main.py`:
-2. The script will open a Chrome browser window and start creating Outlook email accounts automatically.
-3. After completion, the email and password used for each account will be saved in `accounts.txt`.
+2. The script will open a Chrome browser window and start creating Outlook email accounts semi-automatically.
+3. Manually complete the captcha when prompted during the account creation process.
 
 ## Notes
 
